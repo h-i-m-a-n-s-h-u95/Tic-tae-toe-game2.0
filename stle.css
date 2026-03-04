@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
 }
 
 .container {
@@ -18,18 +18,16 @@ body {
     padding: 30px;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
 
 h1 {
     margin-bottom: 10px;
-    color: #333;
 }
 
 #status {
     margin-bottom: 20px;
     font-weight: bold;
-    color: #555;
 }
 
 .board {
@@ -41,11 +39,10 @@ h1 {
 }
 
 .cell {
-    background: #f4f4f4;
+    background: #f2f2f2;
     border-radius: 10px;
     font-size: 40px;
     font-weight: bold;
-    color: #333;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,7 +51,7 @@ h1 {
 }
 
 .cell:hover {
-    background: #dcdcdc;
+    background: #ddd;
     transform: scale(1.05);
 }
 
@@ -67,13 +64,12 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 8px;
-    background: #667eea;
+    background: #2a5298;
     color: white;
     font-size: 16px;
     cursor: pointer;
-    transition: 0.3s;
 }
 
 button:hover {
-    background: #5563c1;
+    background: #1e3c72;
 }
