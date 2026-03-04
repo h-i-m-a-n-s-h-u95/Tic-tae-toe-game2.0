@@ -44,27 +44,6 @@ Tic-tae-toe-game2.0/
 2. Open `index.html` in your browser
 3. Start playing 🎮
 
----
-
-## 🌍 Live Demo
-
-(You can add GitHub Pages link here later)
-
----
-
-## 📌 Future Improvements
-
-- Difficulty Levels (Easy / Medium / Hard)
-- Scoreboard System
-- Sound Effects
-- Dark Mode Toggle
-- Mobile Animations
-
----
-
-## 👨‍💻 Author
-
-**Himanshu Kumar**  
 GitHub: https://github.com/h-i-m-a-n-s-h-u95
 
 ---
